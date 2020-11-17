@@ -1,0 +1,78 @@
+.PanelHeader {
+    background-color: rgb(27, 27, 27);
+    min-width: 100%;
+    border-bottom: rgb(8, 255, 255) 1px solid;
+}
+
+.Div.head {
+    color: #fff;
+    font-size: 15px;
+    font-weight: normal;
+}
+
+.test {
+    background-color: rgb(46, 46, 46);
+    color: #fff;
+    margin: 0;
+    padding: 3px;
+    font-size: 17px;
+}
+
+.dnf_info {
+    background-color: rgb(46, 46, 46);
+    color: #fff;
+    margin: 0;
+    padding: 0px;
+    font-size: 17px;
+}
+
+
+.info {
+    border-top: rgb(8, 255, 255) 1px solid;
+    color: rgb(8, 255, 255);
+    margin: 0;
+    font-size: 17px;
+    padding: 10px 5px 5px 5px;
+    text-align: center;
+    text-decoration: underline;
+}
+
+.bt_ {
+    border-top: rgb(8, 255, 255) 1px solid;
+    background-color: rgb(46, 46, 46);
+    margin: 0;
+    padding: 5px;
+}
+.bb_ {
+    border-bottom: rgb(8, 255, 255) 1px solid;
+    background-color: rgb(46, 46, 46);
+    margin: 0;
+    padding: 5px;
+}
+
+.about_info_dnf {
+    background-color: rgb(46, 46, 46);
+    color: #fff;
+    margin: 0;
+    padding: 5px;
+}
+
+.name {
+    color: #fff;
+}
+
+.dnf_contacts {
+    padding: 0;
+    margin: 2px 2px 5px 4px;
+}
+
+.dnf_contacts_BUTTONS {
+    padding: 0;
+    display: flex;
+}
+
+.tut_navernoe_chtoto_budet {
+    background-color: rgb(46, 46, 46);
+    padding: 5px;
+    color: #fff;
+}
